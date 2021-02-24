@@ -1,0 +1,18 @@
+{
+  "inputController": {
+    "dispatchers": [
+      {
+        "type": "product",
+        "inputType": "default",
+        "title": "購入商品",
+        "labels": [{ "display": "必填" }]
+      },
+      {
+        "type": "address",
+        "inputType": "addressFedex",
+        "title": "收件地址",
+        "labels": [{ "display": "必填" }]
+      }
+    ]
+  }
+}

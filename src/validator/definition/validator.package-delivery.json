@@ -1,0 +1,18 @@
+{
+  "us": {
+    "packageDelivery": {
+      "ups": {
+        "address": {
+          "isRequired": true,
+          "regex": "length 50"
+        }
+      },
+      "fedex": {
+        "address": {
+          "isRequired": true,
+          "regex": "length 70"
+        }
+      }
+    }
+  }
+}

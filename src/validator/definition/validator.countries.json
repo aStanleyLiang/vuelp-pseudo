@@ -1,0 +1,22 @@
+{
+  "tw": {
+    "zipcode": {
+      "isRequired": true,
+      "regex": "xxx"
+    },
+    "tel": {
+      "isRequired": true,
+      "regex": "09xxyyyzzz"
+    }
+  },
+  "us": {
+    "zipcode": {
+      "isRequired": true,
+      "regex": "xxxxx"
+    },
+    "tel": {
+      "isRequired": true,
+      "regex": "xxxyyyzzzz"
+    }
+  }
+}
