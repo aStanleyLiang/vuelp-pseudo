@@ -1,0 +1,24 @@
+{
+  "sg": {
+    "languages": {
+      "en_us": {
+        "address": {
+          "isRequired": true,
+          "regex": "en length 40"
+        }
+      },
+      "zh-hans": {
+        "address": {
+          "isRequired": true,
+          "regex": "zh length 40"
+        }
+      },
+      "ms_my": {
+        "address": {
+          "isRequired": true,
+          "regex": "ms length 40"
+        }
+      }
+    }
+  }
+}

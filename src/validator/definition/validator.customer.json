@@ -1,7 +1,0 @@
-{
-  "address": { "isRequired": true, "regex": "length 40" },
-  "city": { "isRequired": true, "regex": "non empty" },
-  "state": { "isRequired": true, "regex": "non empty" },
-  "zipcode": { "isRequired": true, "regex": "xxx" },
-  "tel": { "isRequired": true, "regex": "09xxyyyzzz" }
-}
